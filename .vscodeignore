@@ -1,4 +1,5 @@
 .vscode/**
+INFO.md
 .gitignore
 node_modules
 demo/
