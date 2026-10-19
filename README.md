@@ -1,10 +1,13 @@
 # Night Glow
 A nostalgic, retro terminal theme with familiar amber glows yet plenty of contrast.
 
-Inspired by a millennial-core fusion of high-pressure sodium street lamps and late nights in front of old monochromatic displays. The accent colors are derived from the rigid 8-bit terminal color palette if it were somehow tuned to be less visually harsh.
+These IDE themes are inspired by a very millennial-core tandem of silent night-walks under sodium street lamp glows and late nights ablaze with softened terminal ANSI colors (as seen through bleary eyes). If you've been there, you know; if not, I'm sorry.
+
+The monochromatic theme is based solely off the primary orange color found within the full-color theme (`#FB9711`), which itself is based off the nucleus of a quintessential operational-temperature sodium-based streetlight. For said full-color theme, all accent colors are derived from the rigid 8-bit terminal color palette if it were somehow tuned to be less visually harsh.
 
 | ![You've been here before. Somewhere deep within your memories, you still are.](./assets/orange_snow.jpg) | ![Handcrafted slop reminding me of those feverish, forgettable, didactic winter nights spent wrapped in my favorite blanket](./assets/moths_to_flame.jpg) |
 | --- | --- |
+| <small>(Monochromatic inspo)</small> | <small>(Slopified full-color inspo)</small> |
 
 
 ## Screenshots
