@@ -6,8 +6,8 @@ These IDE themes are inspired by a very millennial-core tandem of silent night-w
 The monochromatic theme is based solely off the primary orange color found within the full-color theme (`#FB9711`), which itself is based off the nucleus of a quintessential operational-temperature sodium-based streetlight. For said full-color theme, all accent colors are derived from the rigid 8-bit terminal color palette if it were somehow tuned to be less visually harsh.
 
 | ![You've been here before. Somewhere deep within your memories, you still are.](./assets/orange_snow.jpg) | ![Handcrafted slop reminding me of those feverish, forgettable, didactic winter nights spent wrapped in my favorite blanket](./assets/moths_to_flame.jpg) |
-| --- | --- |
-| <small>(Monochromatic inspo)</small> | <small>(Slopified full-color inspo)</small> |
+| :---: | :---: |
+| <small>_(Monochromatic inspo)_</small> | <small>_(Slopified full-color inspo)_</small> |
 
 
 ## Screenshots
